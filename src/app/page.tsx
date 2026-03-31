@@ -141,7 +141,7 @@ export default function LandingPage() {
           name: "Fresh Produce",
           price: "Varies",
           variant: "Fresh",
-          imageSrc: "http://img.b2bpic.net/free-photo/elderly-woman-supermarket_273609-15864.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/elderly-woman-supermarket_273609-15864.jpg?_wi=1",
         },
         {
           id: "p2",
@@ -162,7 +162,7 @@ export default function LandingPage() {
           name: "Organic Pantry",
           price: "Affordable",
           variant: "Healthy",
-          imageSrc: "http://img.b2bpic.net/free-photo/elderly-woman-supermarket_273609-15864.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/elderly-woman-supermarket_273609-15864.jpg?_wi=2",
         },
       ]}
       title="Daily Essentials"
@@ -191,7 +191,7 @@ export default function LandingPage() {
           role: "Resident",
           company: "Upper East Side",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/young-blonde-woman-with-white-t-shirt_273609-6643.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-blonde-woman-with-white-t-shirt_273609-6643.jpg?_wi=1",
         },
         {
           id: "t3",
@@ -215,7 +215,7 @@ export default function LandingPage() {
           role: "Resident",
           company: "Upper East Side",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/young-blonde-woman-with-white-t-shirt_273609-6643.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-blonde-woman-with-white-t-shirt_273609-6643.jpg?_wi=2",
         },
       ]}
       title="What Our Neighbors Say"
